@@ -1,0 +1,63 @@
+/*------------------- icons@1.3.0/font/bootstrap-icons */
+@import url("https://cdn.jsdelivr.net/npm/bootstrap-icons@1.3.0/font/bootstrap-icons.css");
+
+/*------------------- fonts.googleapis.com */
+@import url('https://fonts.googleapis.com/css2?family=Noto+Kufi+Arabic:wght@300;400;500;600;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Aref+Ruqaa&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Patua+One&family=Righteous&family=Roboto+Slab:wght@200;400;500;600;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Uchen&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@200;300;400;500;600;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Song+Myung&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Audiowide&display=swap');
+
+body {
+  font-family: 'Roboto Slab', serif;
+}
+
+.af-1 {
+  font-family: 'Gentium Book Plus', serif;
+}
+
+.af-2 {
+  font-family: 'Aref Ruqaa', serif;
+}
+
+.af-3 {
+  font-family: 'Noto Kufi Arabic', sans-serif;
+}
+
+.af-4 {
+  font-family: 'Patua One', cursive;
+}
+
+.af-5 {
+  font-family: 'Righteous', cursive;
+}
+
+.af-6 {
+  font-family: 'Roboto Slab', serif;
+}
+
+.af-7 {
+  font-family: 'Uchen', serif;
+}
+
+.af-8 {
+  font-family: 'Roboto Slab', serif;
+}
+
+.af-9 {
+  font-family: 'Song Myung', serif;
+}
+
+.af-10 {
+  font-family: 'Audiowide', cursive;
+}
+
+
+/*------------------------------- hover */
+
+.hover-shadow-sm:hover {
+  box-shadow: 0 15px 10px -10px rgba(255, 101, 17, 0.5), 0 1px 4px rgba(0, 0, 0, 0.3), 0 0 40px rgba(255, 255, 255, 0.59) inset;
+  transition: 0.5s;
+}
